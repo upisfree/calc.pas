@@ -1,3 +1,5 @@
+{ Senya Pugach, upisfree@outlook.com }
+
 Uses CRT;
 Var a, b, d : integer;
     c       : char;
