@@ -1,7 +1,7 @@
 calc.pas
 ========
 
-A very simple calculator with 23 lines. It can calculate the numbers of up to 32000 with 4 actions(+, -, *, /). It weighs 4 kb.
+A very simple calculator with 23 lines. It can calculate the numbers of up to 32000 with 4 actions(+, -, *, /). It weighs 0.513 kb.
 
 <h2>How to use</h2>
 
